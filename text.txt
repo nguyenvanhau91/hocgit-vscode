@@ -4,3 +4,5 @@
 4. git commit -m "..."
 5. git push (đăng lên github)
 6. git pull (đồng bộ github web và máy)
+7. git status
+8. 
