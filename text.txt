@@ -1,0 +1,6 @@
+1. git init
+2. git remote add https://github.com/....
+3. git add .
+4. git commit -m "..."
+5. git push (đăng lên github)
+6. git pull (đồng bộ github web và máy)
